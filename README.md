@@ -2,7 +2,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola, soy Fabio Reséndiz</h1>
 <h3 align="center">CFGS Desarrollo de Aplicaciones Multiplataforma</h3>
-<p align="center"> <img src="https://imgs.search.brave.com/Dk2o-XIEqv4fc7aDbea6GNv3ujSvmg8ddBsG5vibReA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzE0/ODgvUE5HLzk2LzUz/NDctZ2l0aHViXzEw/MjU0Mi5wbmc" alt="gitHub" alt="logo" /> </p>
+<p align="center"> <img src="https://cdn.icon-icons.com/icons2/2368/PNG/96/github_logo_icon_143772.png" alt="logo" /> </p>
 
 <table align="center">
 <tr border="none">
