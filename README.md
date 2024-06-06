@@ -8,15 +8,12 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- Actualmente estudio Java como lenguaje principal
-
-- Tambiñen estoy aprendiendo otros lenguajes como HTML, CSS o JavaScript
+- Actualmente estudio Java como lenguaje principal, aunque estoy aprendiendo otros lenguajes y tecnologías como HTML, CSS o MySQL.
 
 </td>
 <td width="50%" align="center">
 
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
   
   </td>
 </tr>
