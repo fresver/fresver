@@ -28,7 +28,6 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fresver&show_icons=true&theme=dracula)
 
-
 ---
 
 <h3>Lenguajes y tecnologías aprendidas y en curso:</h3>
@@ -52,20 +51,33 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="git" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="50" height="50"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="git" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/> 
   </a> 
-
- 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="stackoverflow" width="50" height="50"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Dark.svg" alt="sublime" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="notion" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
 </p>
 
 ---
 
 <h3>Contacto:</h3>
 <p>
-<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
 </p>
 
 ---
