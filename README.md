@@ -28,7 +28,7 @@
 
 ---
 
-<h3>Lenguajes o tecnologías aprendias y en curso:</h3>
+<h3>Lenguajes y tecnologías aprendidas y en curso:</h3>
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
@@ -55,11 +55,7 @@
 
 ---
 
-<h3 align="center">Contacto:</h3>
-<p align="center">
+<h3>Contacto:</h3>
+<p>
 <a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/kaveendinethma" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
