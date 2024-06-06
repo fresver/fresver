@@ -10,6 +10,8 @@
   
 - Actualmente estudio Java como lenguaje principal, aunque estoy aprendiendo otros lenguajes y tecnologías como HTML, CSS o MySQL.
 
+- También estudié el CFGM de S.M.R, pero me gustaría dedicarme de lleno a la programación.
+
 </td>
 <td width="50%" align="center">
 
