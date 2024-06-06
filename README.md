@@ -28,8 +28,8 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3>Lenguajes o tecnologías aprendias y en curso:</h3>
+<p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
   </a> 
