@@ -25,7 +25,7 @@
 
 <h3 align="center">Mis estadísticas</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fresver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
