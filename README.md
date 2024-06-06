@@ -1,8 +1,8 @@
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola, soy Fabio Reséndiz</h1>
-<h3 align="center">CFGS Desarrollo de Aplicaciones Multiplataforma</h3>
 <p align="center"> <img src="https://cdn.icon-icons.com/icons2/2368/PNG/96/github_logo_icon_143772.png" alt="logo" /> </p>
+<h3 align="center">CFGS Desarrollo de Aplicaciones Multiplataforma</h3>
 
 <table align="center">
 <tr border="none">
