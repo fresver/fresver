@@ -1,16 +1,12 @@
-# Bienvenido a mi repositorio de GitHub
-
-¡Hola! Mi nombre es **Fabio**. Actualmente estoy estudiando Java y la mayor parte del tiempo uso **Eclipse** como mi entorno de desarrollo integrado (IDE). Aquí podrás encontrar algunos de los proyectos en los que estoy trabajando.
+# Hola, me llamo Fabio Reséndiz 
 
 ## Sobre mí
 
-```html
 <div class="about-me">
     <img src="https://via.placeholder.com/150" alt="Foto de Fabio" class="profile-img">
     <p>Soy un apasionado por la programación y siempre estoy buscando aprender más sobre nuevas tecnologías y mejorar mis habilidades en Java.</p>
 </div>
 
-<!--
 **fresver/fresver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
