@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fresver&layout=compact&bg_color=00001a&border_color=30363d&title_color=ffffff&text_color=ffffff&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitas a mi Perfil](https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet)
+![Visitas a mi Perfil](https://komarev.com/ghpvc/?username=fresver&color=blueviolet)
 
 ---
 
