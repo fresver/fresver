@@ -49,7 +49,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/XML.svg" alt="git" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="git" width="50" height="50"/> 
   </a> 
 </p>
 
