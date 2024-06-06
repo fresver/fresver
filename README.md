@@ -33,10 +33,10 @@
 <h3>Lenguajes y tecnologías aprendidas y en curso:</h3>
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> 
   </a> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> 
