@@ -25,7 +25,7 @@
 
 <h3 align="center">Mis estadísticas</h3>
 
-<td width="50%" align="center">
+<td width="50%" align="center" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fresver&layout=compact&bg_color=00000000&border_color=30363d&title_color=ffffff&text_color=ffffff&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fresver&layout=compact&bg_color=00000000&border_color=30363d&title_color=ffffff&text_color=ffffff&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
