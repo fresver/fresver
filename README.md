@@ -75,12 +75,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="figma" width="50" height="50"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="figma" width="50" height="50"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="figma" width="50" height="50"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="figma" width="50" height="50"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
