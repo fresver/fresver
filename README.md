@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- Actualmente estudio Java como lenguaje principal, aunque estoy aprendiendo otros lenguajes y tecnologías como HTML, CSS o MySQL.
+- Soy un estudiante de D.A.M al que le gustaría crecer como desarrollador. Actualmente lo que más he aprendido ha sido Java, MySQL, Spring Boot, y otras tecnologías como HTML o CSS, aunque sigo ampliando mi conocimiento contantemente.
 
 - También estudié el CFGM de S.M.R, pero me gustaría dedicarme de lleno a la programación.
 
@@ -70,6 +70,30 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="figma" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="figma" width="50" height="50"/> 
   </a>
 </p>
 
