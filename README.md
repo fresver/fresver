@@ -1,13 +1,12 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola, soy Fabio Reséndiz</h1>
 <h3 align="center">CFGS Desarrollo de Aplicaciones Multiplataforma</h3>
-<p align="center"> <img src="https://cdn.icon-icons.com/icons2/2368/PNG/96/github_logo_icon_143772.png" alt="logo" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- Soy un estudiante de D.A.M al que le gustaría crecer como desarrollador. Actualmente lo que más he aprendido ha sido Java, MySQL, Spring Boot, y otras tecnologías como HTML o CSS, aunque sigo ampliando mi conocimiento contantemente.
+- Soy un estudiante de D.A.M al que le gustaría crecer como desarrollador. Actualmente lo que más he aprendido ha sido Java, MySQL, Spring Boot, y otras tecnologías como HTML o CSS, aunque sigo ampliando mi conocimiento constantemente.
 
 - También estudié el CFGM de S.M.R, pero me gustaría dedicarme de lleno a la programación.
 
