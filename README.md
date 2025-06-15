@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- Soy un estudiante de D.A.M al que le gustaría crecer como desarrollador. Actualmente lo que más he aprendido ha sido Java, MySQL, Spring Boot, y otras tecnologías como HTML o CSS, aunque sigo ampliando mi conocimiento constantemente.
+- Soy un desarrollador que acaba de terminar el ciclo superior de D.A.M al que le gustaría crecer como desarrollador. Actualmente lo que más he aprendido ha sido Java, Python, MySQL, Spring Boot, y otras tecnologías como HTML o CSS, aunque sigo ampliando mi conocimiento constantemente.
 
 - También estudié el CFGM de S.M.R, pero me gustaría dedicarme de lleno a la programación.
 
